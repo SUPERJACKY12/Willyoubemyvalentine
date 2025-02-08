@@ -22,7 +22,7 @@ let noButtonSize = 1;
 let yesButtonSize = 1;
 
 yesBtn.addEventListener("click", () => {
-  title.innerHTML = "Yay! B slanh Ounnn!! 💗";
+  title.innerHTML = "Yay! i loveee u so much my babymeow🫶🏻💚";
   btnContainer.classList.add("hidden");
   changeImage("yes");
 });
